@@ -1,2 +1,2 @@
 # Fivem-Landing-Page
-A simple landing page for a Fivem server
+This is a simple HTML landing page for a FiveM server.
